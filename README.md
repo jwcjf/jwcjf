@@ -38,6 +38,8 @@
 
 - [我参与的编程导航项目 荣获 腾讯第一届云开发大赛一等奖 #云开发](https://itcjf.blog.csdn.net/article/details/117986107)
 - [大前端学习路线，完整知识体系（持续更新，欢迎关注点赞）](https://itcjf.blog.csdn.net/article/details/117968520)
+- [Vue相关开源项目库汇总(史上最全)](https://itcjf.blog.csdn.net/article/details/78221680)
+- [vue 开发中element-ui库的switch开关绑定number类型数据不成功问题 解决方法](https://itcjf.blog.csdn.net/article/details/78528694)
 
 
 
