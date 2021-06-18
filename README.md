@@ -22,3 +22,25 @@
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 
+# 学习路线
+## HTML和CSS以及DOM交互学习路线
+<p align="center"><img src="images/HTML_CSS.jpg"/></p>
+
+## JavaScript学习路线
+<p align="center"><img src="images/Javascript.jpg"/></p>
+
+## 数据结构和算法
+<p align="center"><img src="images/algorithms.jpg"/></p>
+
+## 赞赏码
+
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡，赏了一定要加我微信跟我说。
+
+<img src="images/1621910602466.jpg" width="300" />  <img src="images/0.jpg" width="300" />
+
+## 鸣谢
+
+
+<img src="images/20210522180031226.gif" width="300" />
+
+
