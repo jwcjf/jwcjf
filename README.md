@@ -36,8 +36,8 @@
 
 - #### <img src="images/20210524160504644.png" width="60"/>  [Web前端基础](https://itcjf.blog.csdn.net/category_7202464.html)
 
-- [我参与的编程导航项目 荣获 腾讯第一届云开发大赛一等奖 #云开发](https://blog.csdn.net/qq_44273429/article/details/117257364)
-- [大前端学习路线，完整知识体系（持续更新，欢迎关注点赞）] (https://itcjf.blog.csdn.net/article/details/117968520)
+- [我参与的编程导航项目 荣获 腾讯第一届云开发大赛一等奖 #云开发](https://itcjf.blog.csdn.net/article/details/117986107)
+- [大前端学习路线，完整知识体系（持续更新，欢迎关注点赞）](https://itcjf.blog.csdn.net/article/details/117968520)
 
 
 
