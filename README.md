@@ -36,7 +36,11 @@
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡，赏了一定要加我微信跟我说。
 
-<img src="images/1621910602466.JPG" width="300" />  <img src="images/0.JPG" width="300" />
+<img src="images/1621910602466.JPG" width="400" /> 
+
+## 赞赏码
+
+<img src="images/0.JPG" width="300" />
 
 ## 鸣谢
 
