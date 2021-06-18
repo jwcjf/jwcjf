@@ -38,13 +38,13 @@
 
 <img src="images/1621910602466.JPG" width="400" /> 
 
-## 赞赏码
+## WECHAT
 
-<img src="images/0.JPG" width="300" />
+<img src="images/0.JPG" width="400" />
 
 ## 鸣谢
 
 
-<img src="images/20210522180031226.gif" width="300" />
+<img src="images/20210522180031226.gif" width="400" />
 
 
